@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="603f0005-23a7-4a32-aade-bc9735dcb0d3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../HIS-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HIS-master/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/his-cloud-api-pc/src/main/java/com/neu/his/cloud/api/pc/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/his-cloud-api-pc/src/main/java/com/neu/his/cloud/api/pc/config/Swagger2Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/his-cloud-service-bms/src/main/java/com/neu/his/cloud/service/bms/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/his-cloud-service-bms/src/main/java/com/neu/his/cloud/service/bms/config/Swagger2Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/his-cloud-service-dms/src/main/java/com/neu/his/cloud/service/dms/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/his-cloud-service-dms/src/main/java/com/neu/his/cloud/service/dms/config/Swagger2Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/his-cloud-service-pms/src/main/java/com/neu/his/cloud/service/pms/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/his-cloud-service-pms/src/main/java/com/neu/his/cloud/service/pms/config/Swagger2Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/his-cloud-service-sms/src/main/java/com/neu/his/cloud/service/sms/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/his-cloud-service-sms/src/main/java/com/neu/his/cloud/service/sms/config/Swagger2Config.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/his-cloud-zuul/src/main/java/com/neu/his/cloud/zuul/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/his-cloud-zuul/src/main/java/com/neu/his/cloud/zuul/config/Swagger2Config.java" afterDir="false" />
-    </list>
+    <list default="true" id="603f0005-23a7-4a32-aade-bc9735dcb0d3" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/his-cloud-dependencies/target/" />
     <ignored path="$PROJECT_DIR$/his-cloud-eureka/target/" />
     <ignored path="$PROJECT_DIR$/his-cloud-service-sms/target/" />
@@ -56,26 +46,7 @@
     <favorites_list name="his-cloud" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/his-cloud-api-pc/src/main/java/com/neu/his/cloud/api/pc/config/Swagger2Config.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/his-cloud-api-app/src/main/java/com/neu/his/cloud/api/app/config/Swagger2Config.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -202,51 +173,6 @@
               <item name="his-cloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="his-cloud" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="his-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="his-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="his-cloud-api-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="his-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="his-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="his-cloud-api-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="his-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="his-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="his-cloud-api-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="his-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="his-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="his-cloud-api-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="his-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="his-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="his-cloud-api-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="his-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="his-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="his-cloud-api-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -263,7 +189,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562949388968" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562949421514" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="XML&#10;XHTML" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -568,7 +494,7 @@
       <workItem from="1562373913741" duration="481000" />
       <workItem from="1562374665046" duration="1708000" />
       <workItem from="1562858415376" duration="647000" />
-      <workItem from="1562949204672" duration="175000" />
+      <workItem from="1562949204672" duration="494000" />
     </task>
     <task id="LOCAL-00001" summary="init repo">
       <created>1560604155728</created>
@@ -732,7 +658,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="400877000" />
+    <option name="totallyTimeSpent" value="401196000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -745,7 +671,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.2646421" visible="true" weight="0.18364611" />
       <window_info id="Structure" order="1" sideWeight="0.34893617" side_tool="true" weight="0.4495159" />
@@ -1226,14 +1151,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/his-cloud-api-pc/src/main/java/com/neu/his/cloud/api/pc/config/Swagger2Config.java">
+    <entry file="file://$PROJECT_DIR$/his-cloud-api-app/src/main/java/com/neu/his/cloud/api/app/config/Swagger2Config.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/his-cloud-api-app/src/main/java/com/neu/his/cloud/api/app/config/Swagger2Config.java">
+    <entry file="file://$PROJECT_DIR$/his-cloud-api-pc/src/main/java/com/neu/his/cloud/api/pc/config/Swagger2Config.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
           <caret line="56" column="57" selection-start-line="56" selection-start-column="57" selection-end-line="56" selection-end-column="57" />
