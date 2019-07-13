@@ -115,10 +115,10 @@ HIS 项目致力于打造一个完整的医疗系统，采用现阶段流行技�
   ![PC-日结](document/picture/PC-日结-1.png)
   
 - Spring boot admin
-  ![Spring boot admin](document/picture/Spring boot admin-1.png)
+  ![Spring boot admin](document/picture/admin-1.png)
   
 - Spring boot admin
-  ![Spring boot admin](document/picture/Spring boot admin-2.png)
+  ![Spring boot admin](document/picture/admin-2.png)
   
 - ZinKin链路追踪
   ![ZinKin链路追踪](document/picture/ZinKin链路追踪.png)
