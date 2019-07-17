@@ -46,7 +46,7 @@
     <favorites_list name="his-cloud" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -153,8 +153,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="y" value="-7" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -166,6 +166,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -177,7 +178,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -420,8 +420,8 @@
       <item itemvalue="Spring Boot.ServiceDmsApplication" />
       <item itemvalue="Spring Boot.ServicePmsApplication" />
       <item itemvalue="Spring Boot.ApiPcApplication" />
-      <item itemvalue="Spring Boot.ApiAppApplication" />
       <item itemvalue="Spring Boot.ServiceSearchApplication" />
+      <item itemvalue="Spring Boot.ApiAppApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -495,6 +495,7 @@
       <workItem from="1562374665046" duration="1708000" />
       <workItem from="1562858415376" duration="647000" />
       <workItem from="1562949204672" duration="494000" />
+      <workItem from="1563367070144" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="init repo">
       <created>1560604155728</created>
@@ -658,7 +659,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="401196000" />
+    <option name="totallyTimeSpent" value="401212000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -672,7 +673,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.2646421" visible="true" weight="0.18364611" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.2646421" visible="true" weight="0.18632708" />
       <window_info id="Structure" order="1" sideWeight="0.34893617" side_tool="true" weight="0.4495159" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" sideWeight="0.81884056" side_tool="true" weight="0.21179625" />
