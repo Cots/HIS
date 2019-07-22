@@ -1,8 +1,8 @@
 HIS
 
-HIS英文全称 hospital information system（医院信息系统），系统主要功能按照数据流量、流向及处理过程分为临床诊疗、药品管理、财务管理、患者管理。诊疗活动由各工作站配合完成，并将临床信息进行整理、处理、汇总、统计、分析等。本系统包括以下工作站：门诊医生工作站、药房医生工作站、医技医生工作站、收费员工作站、对帐员工作站、管理员工作站。基于Spring cloud和Spring boot 2.x 实现。[http://59.110.234.89](http://59.110.234.89/)
+HIS英文全称 hospital information system（医院信息系统），系统主要功能按照数据流量、流向及处理过程分为临床诊疗、药品管理、财务管理、患者管理。诊疗活动由各工作站配合完成，并将临床信息进行整理、处理、汇总、统计、分析等。本系统包括以下工作站：门诊医生工作站、药房医生工作站、医技医生工作站、收费员工作站、对帐员工作站、管理员工作站。基于Spring cloud和Spring boot 2.x 实现
 
-**项目演示**：[http://59.110.234.89](http://59.110.234.89/)
+**项目演示*
 
 username：演示用户
 
@@ -105,26 +105,7 @@ HIS 项目致力于打造一个完整的医疗系统，采用现阶段流行技�
 
 ## 二. 项目展示
 
-- PC-主页
-![PC-主页](document/picture/PC-主页.png)
 
-- APP-主页
-
-![APP-主页](document/picture/APP-主页.png)
-
-- APP-挂号
-
-![APP-挂号](document/picture/APP-挂号-1.png)
-
-
-- PC-门诊医生工作台
-  ![C-门诊医生工作台](document/picture/PC-门诊医生工作台-1.png)
-  
-- PC-药房医生工作台
-  ![PC-药房医生工作台](document/picture/PC-药房医生工作台-1.png)
-  
-- PC-日结
-  ![PC-日结](document/picture/PC-日结-1.png)
   
 - Spring boot admin
   ![Spring boot admin](document/picture/admin-1.png)
