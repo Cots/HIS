@@ -8,15 +8,14 @@ username：演示用户
 
 password：test
 
-``由于没有进行部署优化，首次加载需要等待1~2分钟，加载完成之后比较流程流畅``
+``由于没有进行部署，首次加载需要等待1~2分钟，加载完成之后比较流程流畅``
 
-``作者近期较忙，更新速度有所减慢，敬请理解，12月后计划加快进度``
+``好不容易抓到了推免的尾巴，所以最近打算更新一下部署文档，暂时不打算再维护代码了，但我会继续推出其他有意思的基于Cloud的项目，欢迎关注``
 
-``数据库登录用户密码都为：test   可以自己用swagger调接口创建``
-
-``有问题请直接 issue``
+``有问题请直接 issue（如果需要数据库和真实数据请联系本人邮箱）``
 
 **申明**：项目为NEU实训课设本组所作，包前缀为neu，侵权必改
+        **之前由于学校突然增加人机交互课设，所以把该项目变成Private,但很多人无情fork之后并不删除，例如  [TANGKUO](https://github.com/TANGKUO)，我已经联系他多次，他还是不删除。只能挂个名字在这了...**
 
 **持续更新中......**
 
@@ -104,21 +103,45 @@ HIS 项目致力于打造一个完整的医疗系统，采用现阶段流行技�
 | Webpack    | ————        | 模板打包器          |
 
 ## 二. 项目展示
+- 主页
+   ![主页](document/picture/PC-主页.png)
 
+- 门诊医生工作台
+    ![门诊医生工作台](document/picture/PC-门诊医生工作台-1.png)
 
-  
+- 医技医生工作台
+  ![医技医生工作台](document/picture/PC-医技医生工作台-1.png)
+
+- 药房医生工作台
+  ![药房医生工作台 ](document/picture/PC-药房医生工作台-1.png)
+
+- 收银员工作台
+  ![收银员工作台 ](document/picture/收银员工作台.png)
+
+- 对账员工作台
+  ![对账员工作台](document/picture/PC-日结-1.png)
+
+- 病历模板
+  ![病历模板](document/picture/PC-病历模板管理.png)
+
+- 排班管理
+  ![排班管理](document/picture/PC-排班-1.png)
+
+- App挂号
+  ![App挂号](document/picture/APP-挂号-1.png)
+
 - Spring boot admin
   ![Spring boot admin](document/picture/admin-1.png)
-  
+
 - Spring boot admin
   ![Spring boot admin](document/picture/admin-2.png)
-  
+
 - ZinKin链路追踪
   ![ZinKin链路追踪](document/picture/ZinKin链路追踪.png)
-  
+
 - 分布式日志收集
   ![分布式日志收集](document/picture/分布式日志收集.png)
-  
+
 - Hystrix dashboard
   ![Hystrix dashboard](document/picture/Hystrix-dashboard.png)
 
@@ -153,6 +176,8 @@ HIS 项目致力于打造一个完整的医疗系统，采用现阶段流行技�
 ``待更新``
 
 ## 三. 业务需求
+
+
 
 ### 业务流程图
 

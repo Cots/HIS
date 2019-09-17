@@ -6,7 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d6300d3-e464-4e8a-9b0b-5742c7f1993d" name="Default Changelist" comment="" />
+    <list default="true" id="3d6300d3-e464-4e8a-9b0b-5742c7f1993d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/api/controller/dms/DmsCaseHistoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/api/controller/dms/DmsCaseHistoryController.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/HIS-mbg/target/" />
@@ -57,8 +61,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HIS-api/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="304">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/api/controller/dms/DmsCaseHistoryController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -136,7 +149,6 @@
         <option value="$PROJECT_DIR$/HIS-service/HIS-sms-service/src/main/java/com/neu/his/sms/impl/SmsSkdServiceImpl.java" />
         <option value="$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/api/controller/dms/DmsRedisSaveController.java" />
         <option value="$PROJECT_DIR$/HIS-common/src/main/java/com/neu/his/common/dto/dms/DmsNonDrugRedisParam.java" />
-        <option value="$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/api/controller/dms/DmsCaseHistoryController.java" />
         <option value="$PROJECT_DIR$/HIS-service/HIS-dms-service/src/main/java/com/neu/his/dms/service/impl/DmsDrugStoreServiceImpl.java" />
         <option value="$PROJECT_DIR$/HIS-service/HIS-dms-service/src/main/java/com/neu/his/dms/service/impl/DmsRegistrationServiceImpl.java" />
         <option value="$PROJECT_DIR$/HIS-common/src/main/java/com/neu/his/common/dto/dms/DmsDrugRedisParam.java" />
@@ -157,6 +169,7 @@
         <option value="$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/config/Swagger2Config.java" />
         <option value="$PROJECT_DIR$/HIS-api/src/main/resources/application-dev.yml" />
         <option value="$PROJECT_DIR$/HIS-api/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/api/controller/dms/DmsCaseHistoryController.java" />
       </list>
     </option>
   </component>
@@ -183,7 +196,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="-10" />
     <option name="width" value="955" />
     <option name="height" value="1040" />
   </component>
@@ -196,7 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -210,44 +222,11 @@
               <item name="HIS-master" type="462c0819:PsiDirectoryNode" />
               <item name="HIS-api" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HIS-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HIS-master" type="462c0819:PsiDirectoryNode" />
-              <item name="HIS-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HIS-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HIS-master" type="462c0819:PsiDirectoryNode" />
-              <item name="HIS-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HIS-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HIS-master" type="462c0819:PsiDirectoryNode" />
-              <item name="HIS-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HIS-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HIS-master" type="462c0819:PsiDirectoryNode" />
-              <item name="HIS-api" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HIS-master" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HIS-master" type="462c0819:PsiDirectoryNode" />
-              <item name="HIS-common" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -562,6 +541,12 @@
       <workItem from="1562304202681" duration="691000" />
       <workItem from="1562944608195" duration="1297000" />
       <workItem from="1563367095819" duration="3701000" />
+      <workItem from="1563779357734" duration="206000" />
+      <workItem from="1563865523337" duration="809000" />
+      <workItem from="1563978952241" duration="16000" />
+      <workItem from="1564014637289" duration="12000" />
+      <workItem from="1564037587160" duration="2000" />
+      <workItem from="1564065654754" duration="6000" />
     </task>
     <servers />
   </component>
@@ -598,7 +583,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="629537000" />
+    <option name="totallyTimeSpent" value="630588000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -612,7 +597,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.33512065" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992928" visible="true" weight="0.3632708" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -639,7 +624,7 @@
       <window_info anchor="bottom" id="Problems" order="15" weight="0.32956153" />
       <window_info anchor="bottom" id="JRebel Executor" order="16" sideWeight="0.827748" weight="0.15841584" />
       <window_info anchor="bottom" id="JRebel Console" order="17" sideWeight="0.50067025" side_tool="true" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run Dashboard" order="18" sideWeight="0.49932975" visible="true" weight="0.35835695" />
+      <window_info anchor="bottom" id="Run Dashboard" order="18" sideWeight="0.49932975" visible="true" weight="0.17280453" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.36099586" />
@@ -757,13 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/api/controller/dms/DmsCaseHistoryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="55" column="33" lean-forward="true" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -908,20 +886,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HIS-service/HIS-dms-service/src/main/java/com/neu/his/dms/service/impl/DmsCaseHistoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="89" column="24" lean-forward="true" selection-start-line="89" selection-start-column="24" selection-end-line="89" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HIS-service/HIS-dms-service/src/main/java/com/neu/his/dms/service/DmsCaseHistoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HIS-service/HIS-dms-service/src/main/java/com/neu/his/dms/service/DmsDrugService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="526">
@@ -1046,10 +1010,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HIS-service/HIS-dms-service/src/main/java/com/neu/his/dms/service/DmsCaseHistoryService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIS-service/HIS-dms-service/src/main/java/com/neu/his/dms/service/impl/DmsCaseHistoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="86" column="32" selection-start-line="86" selection-start-column="32" selection-end-line="86" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HIS-api/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        <state relative-caret-position="304">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HIS-api/src/main/java/com/neu/his/api/controller/dms/DmsCaseHistoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>

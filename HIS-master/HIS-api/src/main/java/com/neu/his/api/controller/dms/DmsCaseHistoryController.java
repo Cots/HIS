@@ -37,9 +37,14 @@ public class DmsCaseHistoryController {
     @RequestMapping(value = "/selectNotEndCaseHistoryByReg/{registrationId}", method = RequestMethod.GET)
     @ResponseBody
     public CommonResult<DmsCaseHistoryResult> selectNotEndCaseHistoryByReg(@PathVariable("registrationId") Long registrationId){
-        DmsCaseHistoryResult dmsCaseHistoryResult = new DmsCaseHistoryResult();
+        DmsCaseHistoryResult dmsCaseHistoryResult = null;
         dmsCaseHistoryResult = dmsCaseHistoryService.selectCaseHistoryByReg(registrationId,1);
+
+        if(dmsCaseHistoryResult.getDmsCaseHistoryList()==null || dmsCaseHistoryResult.getDmsCaseHistoryList().size()==0){
+            dmsCaseHistoryResult=dmsCaseHistoryService.selectCaseHistoryByReg(registrationId,2);
+        }
         return CommonResult.success(dmsCaseHistoryResult);
+
     }
 
 
